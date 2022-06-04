@@ -1,0 +1,32 @@
+body  {
+  background-color: #182C61
+}
+
+h1 {
+  font-family: 'Sora', sans-serif;
+  color: white;
+  clear: both;
+  text-align: center;
+  padding-top: 100px;
+
+}
+
+.box { /*individual boxes*/
+  background-color: yellow;
+  font-family: 'Sora', sans-serif;
+  border-radius: 5%;
+  width: 150px; 
+  font-size: 45px;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+  padding: 20px;
+  cursor: pointer;
+}
+
+#display { /*main div*/
+  width: 600px;
+  margin: auto;
+  clear: both;
+}
